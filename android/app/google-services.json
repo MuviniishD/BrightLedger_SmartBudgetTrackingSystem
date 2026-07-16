@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1035051587986",
+    "firebase_url": "https://bright-ledger-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bright-ledger",
+    "storage_bucket": "bright-ledger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035051587986:android:b7ec0bd2f204757a5b894b",
+        "android_client_info": {
+          "package_name": "com.example.brightledger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035051587986-lu1sbp65o4uk406be4k6es52ols49rrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brightledger",
+            "certificate_hash": "304f7a5e213aaf1d30a5a8de4de9823653320ec0"
+          }
+        },
+        {
+          "client_id": "1035051587986-3en2sej4mkbj88kris15ktbfqnfkac7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhehlgmE-7juhd2MsawPlQWycWPyCkbxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035051587986-3en2sej4mkbj88kris15ktbfqnfkac7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035051587986-8t7r6huj1r92arri0s4tudsfusc6ge2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brightledger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
